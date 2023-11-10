@@ -1,1 +1,8 @@
-ajout du fichier .gitignore
+echo "ajout du fichier .gitignore">todo.txt : code pour ajouter un fichier text avec un contenu
+
+git stash save "message" pour mettre de côté un document ou modification avant le commit
+
+
+
+Mon code Tokens : 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 
+
